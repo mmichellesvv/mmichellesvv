@@ -4,9 +4,10 @@
 
 
 <p align="center">
-  <img src=https://nirzak-streak-stats.vercel.app/?user=mmichellesvv&theme=codeSTACKr&hide_border=true width="45%"/>
-  <img src=https://github-readme-stats.vercel.app/api?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true width="45%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mmichellesvv&theme=codeSTACKr&hide_border=true" width="45%" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" width="45%"/>
 </p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svitlana-mykhailenko-4aa28b288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Michelle27082003@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmichellesvv)  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199566949080/) <a href="https://donatello.to/mmichellesvv"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
   
