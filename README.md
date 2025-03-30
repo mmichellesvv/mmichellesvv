@@ -1,5 +1,3 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmichellesvv&theme=tokyonight" alt="mystreak" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmichellesvv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="45%" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmichellesvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mmichellesvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Michelle27082003@gmail.com) 
@@ -10,6 +8,7 @@
 <p align="center">
   <img src=https://nirzak-streak-stats.vercel.app/?user=mmichellesvv&theme=codeSTACKr&hide_border=true width="45%"/>
   <img src=https://github-readme-stats.vercel.app/api?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true width="45%"/>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact />
 </p>
 ![](https://github-readme-stats.vercel.app/api?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mmichellesvv&theme=codeSTACKr&hide_border=true)<br/>
