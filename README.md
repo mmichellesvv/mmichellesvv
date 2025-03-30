@@ -4,7 +4,6 @@
 <p align="center">
   <img src=https://nirzak-streak-stats.vercel.app/?user=mmichellesvv&theme=codeSTACKr&hide_border=true width="45%"/>
   <img src=https://github-readme-stats.vercel.app/api?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true width="45%"/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mmichellesvv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact />
 </p>
 
 
